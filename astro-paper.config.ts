@@ -3,8 +3,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://doc.200205.net",
-    title: "我的知识库",
-    description: "个人知识库，记录学习笔记与技术积累。",
+    title: "Immki DOC",
+    description: "Immki DOC 个人知识库，记录学习笔记与技术积累。",
     author: "listensay",
     profile: "https://doc.200205.net",
     ogImage: "default-og.jpg",
@@ -30,11 +30,11 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github", url: "https://github.com/listensay" },
-    { name: "mail",   url: "mailto:yourmail@example.com" },
+    { name: "mail",   url: "mailto:odr233@gmail.com" },
   ],
-  shareLinks: [
-    { name: "x",        url: "https://x.com/intent/post?url=" },
-    { name: "telegram", url: "https://t.me/share/url?url=" },
-    { name: "mail",     url: "mailto:?subject=See%20this%20post&body=" },
-  ],
+  // shareLinks: [
+  //   { name: "x",        url: "https://x.com/intent/post?url=" },
+  //   { name: "telegram", url: "https://t.me/share/url?url=" },
+  //   { name: "mail",     url: "mailto:?subject=See%20this%20post&body=" },
+  // ],
 });
