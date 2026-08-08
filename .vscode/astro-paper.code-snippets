@@ -1,4 +1,24 @@
 {
+  "Markdown Post": {
+    "scope": "markdown",
+    "prefix": "post",
+    "body": [
+      "---",
+      "title: \"${1:文章标题}\"",
+      "pubDatetime: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00+08:00",
+      "description: \"${2:文章简介}\"",
+      "featured: false",
+      "draft: false",
+      "tags:",
+      "  - ${3:others}",
+      "---",
+      "",
+      "# ${1:文章标题}",
+      "",
+      "${0:在这里开始写正文。}"
+    ],
+    "description": "生成 AstroPaper Markdown 文章模板"
+  },
   "Frontmatter": {
     "scope": "markdown",
     "prefix": "frontmatter",
