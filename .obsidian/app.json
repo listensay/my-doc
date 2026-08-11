@@ -4,5 +4,6 @@
   "attachmentFolderPath": "src/assets/images",
   "newLinkFormat": "relative",
   "showLineNumber": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "promptDelete": false
 }

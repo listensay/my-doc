@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb417e8bde16eab",
+        "id": "f2995c53d7c11ede",
         "type": "tabs",
         "children": [
           {
-            "id": "34bc2a33993ccc51",
+            "id": "7e1283f458f8783e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/Embedded/1day.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1day"
+              "title": "新标签页"
             }
           }
         ]
@@ -169,8 +165,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "6d331a784c064ec3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,15 +195,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "34bc2a33993ccc51",
+  "active": "7e1283f458f8783e",
   "lastOpenFiles": [
-    "src/content/posts/Embedded/未命名.md",
-    "src/content/posts/Embedded/1day.md",
+    "src/content/posts/Embedded/电学基础概念.md",
+    "src/assets/images/Pasted image 20260809100736.png",
+    "src/assets/images/Pasted image 20260809093308.png",
+    "src/assets/images/Pasted image 20260809091053.png",
+    "src/assets/images/Pasted image 20260809085209.png",
+    "src/content/posts/Embedded/未命名.base",
+    "src/assets/images/Pasted image 20260808141513.png",
     "_templates/blog-post.md.md",
+    "_templates/blog-post.md",
+    "src/content/posts/Embedded/power-infrastructure.md",
+    "dist/tags/嵌入式/index.html",
+    "dist/tags/嵌入式",
+    "dist/posts/embedded/power-infrastructure/index.png",
+    "dist/posts/embedded/power-infrastructure/index.html",
+    "dist/posts/embedded/power-infrastructure",
+    "src/content/posts/Embedded/electrical-basics.md",
+    "src/content/posts/Embedded/test-article.md",
+    "scripts/create-post.mjs",
+    "scripts",
+    "dist/sitemap-index.xml",
+    "dist/sitemap-0.xml",
+    "dist/index.html",
+    "dist/posts/embedded/electrical-basics/index.png",
+    "dist/og.png",
+    "dist/_astro/favicon.vp_fBu0c.svg",
+    "dist/_astro/IconRss.BYWRoVjV.svg",
+    "src/content/posts/Embedded/1day.md",
+    "README.md",
+    "AGENTS.md",
+    "src/content/posts/Embedded/未命名.md",
     "src/content/posts/Embedded/blog-post.md.md",
-    "_templates",
     "未命名.md",
-    "未命名.base",
     "src/content/posts/Embedded/coderwhy.md"
   ]
 }
